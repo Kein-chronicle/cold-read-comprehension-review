@@ -1,0 +1,2 @@
+{ "claim_any": ["receipt"], "steps_all_of": [["copy"], ["paste"], ["send"]], "result_keywords": ["table", "total", "category"],
+  "result_min_hits": 2, "min_sections": 4, "required_fields": ["summary", "claim_seen", "result_seen"] }

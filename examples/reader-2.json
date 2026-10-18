@@ -1,0 +1,22 @@
+{
+ "summary": "photos of receipts become a spreadsheet",
+ "claim_seen": "receipt photos become a table",
+ "steps": [
+  "copy the prompt",
+  "paste it into the chat",
+  "send it"
+ ],
+ "result_seen": "a table listing each total by category",
+ "sections": [
+  "a",
+  "b",
+  "c",
+  "d"
+ ],
+ "confusions": [
+  {
+   "text": "none really",
+   "severity": "minor"
+  }
+ ]
+}

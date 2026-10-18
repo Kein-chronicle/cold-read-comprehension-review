@@ -1,0 +1,2 @@
+{ "summary": "turn receipts into a sheet", "claim_seen": "receipt photos become a table", "steps": ["copy prompt", "paste it", "send"],
+  "result_seen": "a table with total per category", "sections": ["a", "b", "c", "d"], "confusions": [{"text": "none really", "severity": "minor"}] }
